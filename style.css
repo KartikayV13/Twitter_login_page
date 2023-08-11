@@ -99,7 +99,7 @@ body {
 #googlelogin:target {
   height: 70%;
   width: 70%;
-  background-image: url(/img/Gmail\ signin.jpg);
+  background-image: url(./img/Gmail\ signin.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -118,7 +118,7 @@ body {
 #appleid:target {
   height: 70%;
   width: 70%;
-  background-image: url(/img/appleid.jpg);
+  background-image: url(./img/appleid.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 50%;
@@ -142,7 +142,7 @@ body {
 #nextbtn:target {
   height: 70%;
   width: 70%;
-  background-image: url(/img/Next.jpg);
+  background-image: url(./img/Next.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 50%;
@@ -161,7 +161,7 @@ body {
 #forgot:target {
   height: 70%;
   width: 70%;
-  background-image: url(/img/IMG_20230811_183945.jpg);
+  background-image: url(./img/IMG_20230811_183945.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -180,7 +180,7 @@ body {
 #signup:target {
   height: 70%;
   width: 70%;
-  background-image: url(/img/signin.jpg);
+  background-image: url(./img/signin.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 70%;
