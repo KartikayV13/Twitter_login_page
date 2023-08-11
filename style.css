@@ -127,6 +127,8 @@ body {
 }
 #next-btn{
   margin-top: -10px;
+  background: black;
+  color: white;
 }
 #nextbtn {
   height: 0;
