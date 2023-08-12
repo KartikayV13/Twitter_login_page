@@ -187,7 +187,11 @@ body {
   top: 50px;
   left: 0.5%;
 }
-@media(max-width: 768px){
+@media(max-width: 420px){
+  body{
+    width: 100vw;
+    height: 100vh;
+  }
   .logo{
     width: 20px;
     height: 20px;
@@ -196,10 +200,11 @@ body {
     font-size: small;
   }
 .login-box{
-  margin-top:50%;
+  margin-top:auto;
   width: 90%;
   padding: 10px;
   left: 45%;
+  height: auto;
 }
 .login-box button{
   font-size: 12px;
