@@ -16,6 +16,10 @@ body {
 .login-box h2 {
   margin-bottom: 10px;
 }
+.logo-img{
+  mix-blend-mode: multiply;
+  filter: contrast(1);
+}
 .login-box button img {
   width: 20px;
   height: 20px;
@@ -251,4 +255,5 @@ body {
   width: 100%;
   top: -30px;
 }
+
 }
