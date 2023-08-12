@@ -156,7 +156,7 @@ body {
   background-image: url(./img/Next.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 50%;
+  background-size: 100%;
   top: 10%;
   left: 5%;
 }
@@ -196,7 +196,7 @@ body {
   background-image: url(./img/signin.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 70%;
+  background-size: 60%;
   top: 50px;
   left: 0.5%;
 }
@@ -241,16 +241,16 @@ body {
  top: 4px;
 }
 #appleid:target {
-  height: 100%;
-  width: 100%;
+  height: 80%;
+  width: 95%;
  background-position:center;
  background-size: 200px;
  left: 10px;
  top: 4px;
 }
 #nextbtn:target{
-  width: 800px;
-  left: -200px;
+  width: 363px;
+  left: 6px;
   top: 4px;
 }
 #forgot:target{
