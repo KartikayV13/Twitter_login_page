@@ -87,14 +87,17 @@ body {
   font-weight: 700;
   margin-left: 10px;
 }
+.x{
+  font-size: 30px;
+}
 #sign {
   color: blue;
 }
 #googlelogin {
   height: 0;
   width: 0;
-
-  position: fixed;
+  position: absolute;
+  background: white;
   top: 0;
   left: 0;
   overflow: hidden;
@@ -110,10 +113,12 @@ body {
   top: 10%;
   left: 2%;
 }
+
 #appleid {
   height: 0;
   width: 0;
   position: fixed;
+  background: white;
   top: 0;
   left: 0;
   overflow: hidden;
@@ -134,10 +139,12 @@ body {
   background: black;
   color: white;
 }
+
 #nextbtn {
   height: 0;
   width: 0;
   position: fixed;
+  background: white;
   top: -5;
   left: 0;
   overflow: hidden;
@@ -157,6 +164,7 @@ body {
   height: 0;
   width: 0;
   position: fixed;
+  background: white;
   top: 0;
   left: 0;
   overflow: hidden;
@@ -176,6 +184,7 @@ body {
   height: 0;
   width: 0;
   position: fixed;
+  background: white;
   top: 0;
   left: 0;
   overflow: hidden;
@@ -229,8 +238,7 @@ body {
   width: 100%;
  background-size: 100%;
  left: 1px;
- top: -30px;
- margin-top:-15px;
+ top: 4px;
 }
 #appleid:target {
   height: 100%;
@@ -238,22 +246,21 @@ body {
  background-position:center;
  background-size: 200px;
  left: 10px;
- margin-top: 10px;
- top: -100px;
+ top: 4px;
 }
 #nextbtn:target{
   width: 800px;
   left: -200px;
-  top: -40px;
+  top: 4px;
 }
 #forgot:target{
   width: 100%;
   left: 0;
-  top: -50px;
+  top: 9px;
 }
 #signup:target{
   width: 100%;
-  top: -30px;
+  top: 20px;
 }
 
 }
